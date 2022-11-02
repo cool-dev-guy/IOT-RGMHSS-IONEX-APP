@@ -2,7 +2,6 @@
 *{
   transition:0.2s;
   font-family:arial;
-  font-size:3em;
 }
 body{
     margin:0px;
@@ -82,10 +81,6 @@ i{
   border-radius:20px;
   padding-left:40px;
   padding-right:40px;
-}
-button{
-  height:90%;
-  font-family:3.5em;
 }
 .order{
   background:crimson;
