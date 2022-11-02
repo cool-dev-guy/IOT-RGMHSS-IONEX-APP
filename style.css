@@ -83,7 +83,10 @@ i{
   padding-left:40px;
   padding-right:40px;
 }
-
+button{
+  padding:10px 15px;
+  font-family:3.5em;
+}
 .order{
   background:crimson;
   color:#DDD;
