@@ -4,6 +4,8 @@
   transition:0.2s;
   font-family:arial;
 }
+button{
+  font-size:2em;
 body{
     margin:0px;
 }
